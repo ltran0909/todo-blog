@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+		
+h2{
+	text-decoration: underline;
+	font-size: 1.6rem;
+	margin-top: 45px;
+}
+		
+p{
+	font-size: 1.2rem;
+	margin: auto;
+	width: 65%;
+	margin-top: 25px;
+	text-align: left;
+}
+		
+img{
+	margin-top: 35px;
+}
+		
+footer{
+	background-color: #dddddd;
+	margin-top: 25px;
+	padding: 10px;
+}
